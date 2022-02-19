@@ -129,3 +129,11 @@ dmypy.json
 .pyre/
 Chapter_3/test.csv
 Chapter_3/train.csv
+Chapter_6/First_Decision_tree.png
+Chapter_6/imagename.png
+Chapter_6/images/decision_trees/sensitivity_to_rotation_plot.png
+Chapter_6/images/decision_trees/min_samples_leaf_plot.png
+Chapter_6/images/decision_trees/decision_tree_decision_boundaries_plot.png
+Chapter_6/images/decision_trees/iris_tree.dot
+.gitignore
+.gitignore
